@@ -34,8 +34,8 @@ Elevation/DEM data
 
 |         **NO**|        **Dataset**|           **Source** |            Size|
 |-|-|-|-|
-|        **01**|LGA Boun<br />ary|GRID3<br />https://data.grid3.org/|2.6 MB|
-|        **02**|Elevation/DEMp|USGS EarthExplorer<br />https://earthexplorer.usgs.gov/|49.4 MB|
+|        **01**|LGA Boundary|GRID3<br />https://data.grid3.org/|2.6 MB|
+|        **02**|Elevation/DEM|USGS EarthExplorer<br />https://earthexplorer.usgs.gov/|49.4 MB|
 
 
 
