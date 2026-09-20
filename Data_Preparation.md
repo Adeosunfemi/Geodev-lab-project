@@ -2,7 +2,7 @@
 
 
 
-All source layers arrived in EPSG:4236.
+All source layers arrived in EPSG: 4236.
 
 
 
