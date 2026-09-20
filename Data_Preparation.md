@@ -14,9 +14,9 @@ All layers were reprojected to EPSG:32631 (UTM Zone 31N) and then clipped to the
 
 
 
-Area check: Ibadan North L.G.A 38KM², matches published figure.
+Area check: The area of Ibadan North L.G.A is 38KM², it matches published figure.
 
 
 
-Working files are in data/processed, raw files untouched.
+Working files are stored in data/processed file, while raw files are untouched.
 
