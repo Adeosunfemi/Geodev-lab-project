@@ -13,4 +13,4 @@ See [Data-Notes.md](Data-Notes.md) for Dataset sources, validation, and observat
 
 See [Data-Preparation.md](Data-Preparation.md) for data preparation process.
 
-See [Month-1-Summary.md](month-1-Summary.md) Summary of the work completed during Month 1.
+See [Month-1-Summary.md](Month-1-Summary.md) Summary of the work completed during Month 1.
