@@ -12,7 +12,7 @@
 
 
 
-###### These are the operations carried out in this order to prepare and analyze the study area. The DEM was first reprojected to EPSG:32631 to ensure accurate measurements are in meters. It was then clipped to the Ibadan North LGA boundary to focus the analysis on the study area. The DEM was classified to clearly visualize the elevation differences, and a 50 m buffer was created around waterways to identify the areas close to watercourses.
+###### These operations were carried out in a logical sequence to prepare and analyze the study area. First, the datasets were checked for missing data and geometry errors, and no missing or invalid features were identified. The relevant layers were then Reprojected to EPSG:32631 to ensure consistency and accurate measurements in meters. The processed datasets were saved in GeoPackage format for organized data management. The DEM was subsequently clipped to the Ibadan North LGA boundary to focus the analysis on the study area and classified to visualize elevation differences. A 50 m buffer was also created around waterways to identify areas close to watercourses. These processed layers were then combined and visualized in QGIS to produce a map showing the spatial distribution of elevation, waterways, and their surrounding buffer. The map was designed with appropriate symbology, labels, grid coordinates, and a scale bar to improve interpretation and presentation.
 
 
 
