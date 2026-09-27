@@ -36,13 +36,7 @@
 
 
 
-
-
-
-
-
-
-
+<img width="17716" height="11811" alt="Waterway Buffer (50 m)" src="https://github.com/user-attachments/assets/b64ceacf-bb9a-446c-8c61-2feb3a1d9817" />
 
 
 
