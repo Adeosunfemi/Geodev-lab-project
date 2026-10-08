@@ -19,4 +19,4 @@ See [Month-1-Summary.md](Month-1-Summary.md) Summary of the work completed durin
 
 -Week 5: setup Python, VS Code and the terminal. hello.py runs.
 
--Week 6: set up the project with UV and added pandas. Check.py prints the pandas version.
+-Week 6: setup the project with UV and added pandas. Check.py prints the pandas version.
