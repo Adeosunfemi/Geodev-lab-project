@@ -20,3 +20,5 @@ See [Month-1-Summary.md](Month-1-Summary.md) Summary of the work completed durin
 -Week 5: setup Python, VS Code and the terminal. hello.py runs.
 
 -Week 6: setup the project with UV and added pandas. Check.py prints the pandas version.
+
+-Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
