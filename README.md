@@ -22,3 +22,5 @@ See [Month-1-Summary.md](Month-1-Summary.md) Summary of the work completed durin
 -Week 6: setup the project with UV and added pandas. Check.py prints the pandas version.
 
 -Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
+
+-Week 8: inspect_data.py summarises area_km2 and count in my Ibadan North 50m waterways buffer dataset (waterways_buffer_50m.csv).
