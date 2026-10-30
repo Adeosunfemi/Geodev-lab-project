@@ -17,15 +17,15 @@ See [Month-1-Summary.md](Month-1-Summary.md) Summary of the work completed durin
 
 ## Month 2: Development of environment and early Python
 
--Week 5: setup Python, VS Code and the terminal. hello.py runs.
+-Week 5: [hello.py](hello.py) setup Python, VS Code and the terminal. hello.py runs.
 
--Week 6: setup the project with UV and added pandas. Check.py prints the pandas version.
+-Week 6: [check.py](check.py) setup the project with UV and added pandas. Check.py prints the pandas version.
 
--Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
+-Week 7: [analyse.py](analyse.py) analyse.py reads wards.csv, converts each area and classifies each ward.
 
--Week 8: inspect_data.py summarises area_km2 and count in my Ibadan North 50m waterways buffer dataset (waterways_buffer_50m.csv).
+-Week 8: [inspect_data.py](inspect_data.py) inspect_data.py summarises area_km2 and count in my Ibadan North 50m waterways buffer dataset (waterways_buffer_50m.csv).
 
-_Week 9: Refactored my Python code into reusable functions to summarise multiple columns in my Ibadan North 50m waterways buffer dataset.
+-Week 9: [summary.py](summary.py) Refactored my Python code into reusable functions to summarise multiple columns in my Ibadan North 50m waterways buffer dataset.
 
 ### Month 2 Reflection
 
