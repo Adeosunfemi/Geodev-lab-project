@@ -16,8 +16,6 @@ def inspect_column(filename, column):
                 "largest": max(values),
                 "count": len(values),
             }
-        result = inspect_column("waterways_buffer_50m.csv", "area_km2")
-        print(result)
 
        #use your function twice
 area_result = inspect_column("waterways_buffer_50m.csv", "area_km2")
