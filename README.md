@@ -24,3 +24,9 @@ See [Month-1-Summary.md](Month-1-Summary.md) Summary of the work completed durin
 -Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
 
 -Week 8: inspect_data.py summarises area_km2 and count in my Ibadan North 50m waterways buffer dataset (waterways_buffer_50m.csv).
+
+_Week 9: Refactored my Python code into reusable functions to summarise multiple columns in my Ibadan North 50m waterways buffer dataset.
+
+### Month 2 Reflection
+
+This month helped me understand how Python can be used to organise, process and analyse GIS data. One idea that finally clicked for me was breaking code into smaller, reusable functions and using loops to process multiple columns. I am still improving my understanding of function arguments and how data moves between functions. My capstone project allowed me to generate statistical summaries of my Ibadan North 50m waterways buffer dataset, demonstrating how Python can support and improve my GIS analysis.
