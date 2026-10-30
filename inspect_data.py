@@ -1,5 +1,4 @@
-
-    #Turn it into a function that returns
+ #Turn it into a function that returns
 import csv
 
 def inspect_column(filename, column):
@@ -11,10 +10,10 @@ def inspect_column(filename, column):
             if raw == "":
                 continue
             values.append(float(raw))
-            return{
+        return{
                 "smallest": min(values),
                 "largest": max(values),
-                "count": len(values),
+                "Count": len(values),
             }
 
        #use your function twice
