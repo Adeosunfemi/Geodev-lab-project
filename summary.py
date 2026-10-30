@@ -23,10 +23,7 @@ def summaries(values):
         "average": sum(values) / len(values),
     }
 
-rows = read_rows("waterways_buffer_50m.csv")
-values = clean_values(rows, "area_km2")
-result = summaries(values)
-print(result)
+
 
 def summaries_all(filename, columns):
     rows = read_rows(filename)
