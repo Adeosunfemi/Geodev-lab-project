@@ -1,7 +1,8 @@
 # My Geodev-lab-project
+
 GIS-Based Analysis and Mapping of Steep-Slope Terrain in Ibadan North Local Government Area, Oyo State.
 
- This project is being built over twelve months with GeoDev Lab Africa, Cohort One.
+This project is being built over twelve months with GeoDev Lab Africa, Cohort One.
 
 ## Project Overview
 
@@ -30,3 +31,9 @@ See [Month-1-Summary.md](Month-1-Summary.md) Summary of the work completed durin
 ### Month 2 Reflection
 
 This month helped me understand how Python can be used to organise, process and analyse GIS data. One idea that finally clicked for me was breaking code into smaller, reusable functions and using loops to process multiple columns. I am still improving my understanding of function arguments and how data moves between functions. My capstone project allowed me to generate statistical summaries of my Ibadan North 50m waterways buffer dataset, demonstrating how Python can support and improve my GIS analysis.
+
+## Month 3: Geospatial Python and Automation
+
+- **Week 10: GeoPandas.** Loaded, checked, joined and mapped my Ibadan North LGA boundary and 50 m waterway buffer layers in code. [View Week 10 README](month-03/week-10/README.md)
+
+- **Week 11: Coordinate Reference Systems and Spatial Operations in Code.** Reprojected my layers to EPSG:32631, calculated polygon areas, counted points within buffer polygons, and measured nearest distances to waterway buffers.[View Week 11 README](month-03/week-11/README.md)
