@@ -1,7 +1,3 @@
-You don't have to include a separate **Project** line, but I recommend it. The Week 11 heading tells readers what you studied, while the project title tells them what you worked on.
-
-Here is the full README with both included.
-
 # Week 11: Coordinate Reference Systems and Spatial Operations in Code
 
 ## Project: Ibadan North LGA Waterways 50 m Buffer Analysis
